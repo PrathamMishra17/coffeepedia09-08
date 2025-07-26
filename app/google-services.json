@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "702537252702",
+    "project_id": "coffepedia-d34a0",
+    "storage_bucket": "coffepedia-d34a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702537252702:android:f08ffbe389881b634ed9cf",
+        "android_client_info": {
+          "package_name": "com.example.coffepedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702537252702-uhgj51hq27g1pfdfoq8bqdcnldej3ch6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffepedia",
+            "certificate_hash": "69b3647b046616928f7a281e155a3948ab3065f0"
+          }
+        },
+        {
+          "client_id": "702537252702-vk811dbhv2bgthaagi3luvvg3ktvpv8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgJ1Mh518T4eaOwL3GPuByWbdfXvmzVts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702537252702-vk811dbhv2bgthaagi3luvvg3ktvpv8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
